@@ -1,4 +1,4 @@
-# DoubleDoubleDominoDetector
+# Double Double Domino Computer Vision Challenge
 The goal of this project is to develop an automatic system for scoring a specific variant of dominoes game called Double Double Dominoes. This [video](https://www.youtube.com/watch?v=ORPJIjFkluQ&t) explains the game perfectly.
 
 ## Overview of Game
